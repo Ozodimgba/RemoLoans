@@ -46,15 +46,7 @@ transaction history: /api/v1/transactions
 - Users must have provided their bank account details to make withdrawals from their wallet.
 - On funding wallet, a Paystack payment link is sent to user.
 
-## Clone this project
 
-```
-git clone https://github.com/mr-chidex/democredit.git
-```
-
-```
-cd democredit
-```
 
 ## Configure the app
 
